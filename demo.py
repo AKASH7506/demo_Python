@@ -15,3 +15,7 @@ print(f"Your age is {age}")
 height = int(input("Enter your height : "))
 print(f"your height is {height}")
 
+# version 4
+
+weight = int(input("Enter your weight:"))
+print(f"your weight is {weight}")
